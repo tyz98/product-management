@@ -82,9 +82,9 @@ docker-compose down
 ### order by price desc
 ![img_18.png](readme_images/img_18.png)
 ### order by name asc
-![img_19.png](readme_images/img_19.png)![img.png](order_name.png)
+![img_19.png](readme_images/img_19.png)
 ### enter the url with filters and pagination directly
 enter `http://localhost:8080/#/?name=a&type=Beauty&priceMin=&priceMax=&page=1&page_size=5` in a new page
 
 and it will show the below page and fill the search form and pagination automatically
-![img_20.png](readme_images/img_20.png)![img.png](readme_images/enter_link.png)
+![img_20.png](readme_images/img_20.png)
