@@ -1,0 +1,6 @@
+[submodule "product-management-frontend"]
+	path = product-management-frontend
+	url = https://github.com/tyz98/product-management-fe.git
+[submodule "product-management-backend"]
+	path = product-management-backend
+	url = https://github.com/tyz98/product-management-be.git
