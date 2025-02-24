@@ -14,7 +14,7 @@ services:
 
   backend:
     build:
-      context: ./product_management_backend   # Path to the backend directory
+      context: ./product-management-backend   # Path to the backend directory
     ports:
       - "9000:9000"        # Expose the backend on port 8080
     networks:
