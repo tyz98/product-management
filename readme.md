@@ -1,7 +1,6 @@
 # Product Management Application
 
 This repository contains the implementation of a full-stack application for product management with a frontend built using Vue.js and a backend powered by Go (Golang) and the Gin framework.
-The directories product-management-fe and product-management-be are both managed by **Git**
 
 ### Tech stack:
 - **Frontend**: JavaScript, Vue.js, Vue Router, Vuex, ElementUI
